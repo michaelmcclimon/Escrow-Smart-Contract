@@ -1,2 +1,2 @@
 # Escrow-Smart-Contract
-The basic build of a Escrow type Smart Contract. Can be built better but wanted to post the start. 
+A smart contract is a blockchain-based program that encodes the conditions and fulfillment of an agreement between two or more parties and automatically fulfills the terms of the agreement once conditions are met. A smart contract can help you exchange anything of value in a transparent, traceable, tamper-resistant, and irreversible way.
